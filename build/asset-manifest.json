@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/muskanb1408/covidtracker/static/css/main.e13990af.css",
+    "main.js": "/muskanb1408/covidtracker/static/js/main.d43bd2a8.js",
+    "static/js/787.06088c0b.chunk.js": "/muskanb1408/covidtracker/static/js/787.06088c0b.chunk.js",
+    "index.html": "/muskanb1408/covidtracker/index.html",
+    "main.e13990af.css.map": "/muskanb1408/covidtracker/static/css/main.e13990af.css.map",
+    "main.d43bd2a8.js.map": "/muskanb1408/covidtracker/static/js/main.d43bd2a8.js.map",
+    "787.06088c0b.chunk.js.map": "/muskanb1408/covidtracker/static/js/787.06088c0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e13990af.css",
+    "static/js/main.d43bd2a8.js"
+  ]
+}
